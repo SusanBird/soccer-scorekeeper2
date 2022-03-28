@@ -15,7 +15,7 @@ const teamTwoLabel = document.getElementById('team-two-name');
 // create an array to hold on to the state of past games
 
 let name1 = '';
-let name2 =  '';
+let name2 = '';
 let score1 = 0;
 let score2 = 0;
 
